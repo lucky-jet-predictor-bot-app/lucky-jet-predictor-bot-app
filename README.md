@@ -2,6 +2,8 @@
 
 **Lucky Jet Bot** is a Telegram news project focused on Lucky Jet. This repository introduces the project, explains the context behind **Lucky Jet Signals** and **Lucky Jet Predictor**, and helps readers understand the information associated with these topics.
 
+[![GO_TO_THE_BOT](https://i.postimg.cc/vZsrPgD0/get-signal-3x-smaller.png)](https://t.me/LitLuckyJetBot)
+
 ## Project Brief
 
 The purpose of this page is to give newcomers a clear starting point: what the project discusses, how its terminology is used and where its Telegram presence can be found.
