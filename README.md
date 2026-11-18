@@ -12,6 +12,8 @@ News, signals and predictions describe different kinds of information. An announ
 
 Understanding those distinctions makes project publications easier to read without attributing capabilities to a tool simply because of its name.
 
+![Lucky Jet project interface screenshot](https://i.ibb.co/FvMF32Z/25.png)
+
 ## Lucky Jet News and Project Coverage
 
 Telegram is the project's communication channel for news and updates. This README serves as a reference for readers who want context before exploring the current content.
